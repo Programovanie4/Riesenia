@@ -1,0 +1,4 @@
+Ján Pastorek: x: JAVA
+n: 9
+y: -65337288788
+nonce:000000000f61f49c287a8243d1027ab185cc372fec233f9e0024c64f1affe36c
